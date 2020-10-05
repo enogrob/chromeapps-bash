@@ -1,0 +1,17 @@
+{
+  "name": "iRedis",
+  "description": "Access iRedis",
+  "version": "1",
+  "manifest_version": 2,
+  "app": {
+    "urls": [
+      "https://iredis.io/"
+    ],
+    "launch": {
+      "web_url": "https://iredis.io/"
+    }
+  },
+  "icons": {
+    "128": "128.png"
+  }
+}

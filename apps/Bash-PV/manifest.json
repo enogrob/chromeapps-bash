@@ -1,0 +1,17 @@
+{
+  "name": "Pipe Viewer",
+  "description": "Access Pipe Viewer",
+  "version": "1",
+  "manifest_version": 2,
+  "app": {
+    "urls": [
+      "http://www.ivarch.com/programs/pv.shtml"
+    ],
+    "launch": {
+      "web_url": "http://www.ivarch.com/programs/pv.shtml"
+    }
+  },
+  "icons": {
+    "128": "128.png"
+  }
+}

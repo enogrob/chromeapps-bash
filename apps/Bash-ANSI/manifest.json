@@ -1,0 +1,17 @@
+{
+  "name": "Ansi",
+  "description": "Access Ansi",
+  "version": "1",
+  "manifest_version": 2,
+  "app": {
+    "urls": [
+      "https://github.com/fidian/ansi"
+    ],
+    "launch": {
+      "web_url": "https://github.com/fidian/ansi"
+    }
+  },
+  "icons": {
+    "128": "128.png"
+  }
+}

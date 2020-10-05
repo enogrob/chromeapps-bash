@@ -1,0 +1,17 @@
+{
+  "name": "MyCli",
+  "description": "Access MyCli",
+  "version": "1",
+  "manifest_version": 2,
+  "app": {
+    "urls": [
+      "https://www.mycli.net/"
+    ],
+    "launch": {
+      "web_url": "https://www.mycli.net/"
+    }
+  },
+  "icons": {
+    "128": "128.png"
+  }
+}
