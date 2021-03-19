@@ -1,0 +1,17 @@
+{
+  "name": "Awesome SysAdmin",
+  "description": "Access Awesome SysAdmin",
+  "version": "1",
+  "manifest_version": 2,
+  "app": {
+    "urls": [
+      "https://sysadmin.libhunt.com/"
+    ],
+    "launch": {
+      "web_url": "https://sysadmin.libhunt.com/"
+    }
+  },
+  "icons": {
+    "128": "128.png"
+  }
+}
