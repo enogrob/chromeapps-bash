@@ -1,0 +1,17 @@
+{
+  "name": "3llo",
+  "description": "Access 3llo",
+  "version": "1",
+  "manifest_version": 2,
+  "app": {
+    "urls": [
+      "https://github.com/qcam/3llo"
+    ],
+    "launch": {
+      "web_url": "https://github.com/qcam/3llo"
+    }
+  },
+  "icons": {
+    "128": "128.png"
+  }
+}
