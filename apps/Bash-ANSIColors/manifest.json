@@ -1,0 +1,17 @@
+{
+  "name": "ANSIColors",
+  "description": "Access ANSIColors",
+  "version": "1",
+  "manifest_version": 2,
+  "app": {
+    "urls": [
+      "https://ss64.com/nt/syntax-ansi.html"
+    ],
+    "launch": {
+      "web_url": "https://ss64.com/nt/syntax-ansi.html"
+    }
+  },
+  "icons": {
+    "128": "128.png"
+  }
+}
