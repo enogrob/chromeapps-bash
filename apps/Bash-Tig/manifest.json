@@ -1,0 +1,17 @@
+{
+  "name": "Tig",
+  "description": "Access Tig",
+  "version": "1",
+  "manifest_version": 2,
+  "app": {
+    "urls": [
+      "https://github.com/jonas/tig"
+    ],
+    "launch": {
+      "web_url": "https://github.com/jonas/tig"
+    }
+  },
+  "icons": {
+    "128": "128.png"
+  }
+}
