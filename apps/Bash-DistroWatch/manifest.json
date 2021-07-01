@@ -1,0 +1,17 @@
+{
+  "name": "DistroWatch",
+  "description": "Access DistroWatch",
+  "version": "1",
+  "manifest_version": 2,
+  "app": {
+    "urls": [
+      "https://distrowatch.com/weekly.php?issue=current"
+    ],
+    "launch": {
+      "web_url": "https://distrowatch.com/weekly.php?issue=current"
+    }
+  },
+  "icons": {
+    "128": "128.png"
+  }
+}
