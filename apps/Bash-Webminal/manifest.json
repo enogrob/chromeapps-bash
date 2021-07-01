@@ -1,0 +1,17 @@
+{
+  "name": "Webminal",
+  "description": "Access Webminal",
+  "version": "1",
+  "manifest_version": 2,
+  "app": {
+    "urls": [
+      "https://www.webminal.org/terminal/"
+    ],
+    "launch": {
+      "web_url": "https://www.webminal.org/terminal/"
+    }
+  },
+  "icons": {
+    "128": "128.png"
+  }
+}

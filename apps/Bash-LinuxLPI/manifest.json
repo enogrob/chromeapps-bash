@@ -1,0 +1,17 @@
+{
+  "name": "Linux LPI",
+  "description": "Access Linux LPI",
+  "version": "1",
+  "manifest_version": 2,
+  "app": {
+    "urls": [
+      "https://learning.lpi.org/en/"
+    ],
+    "launch": {
+      "web_url": "https://learning.lpi.org/en/"
+    }
+  },
+  "icons": {
+    "128": "128.png"
+  }
+}

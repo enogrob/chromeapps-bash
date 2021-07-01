@@ -1,0 +1,17 @@
+{
+  "name": "JDoodle",
+  "description": "Access JDoodle",
+  "version": "1",
+  "manifest_version": 2,
+  "app": {
+    "urls": [
+      "https://www.jdoodle.com/test-bash-shell-script-online/"
+    ],
+    "launch": {
+      "web_url": "https://www.jdoodle.com/test-bash-shell-script-online/"
+    }
+  },
+  "icons": {
+    "128": "128.png"
+  }
+}
