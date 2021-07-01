@@ -1,0 +1,17 @@
+{
+  "name": "XOnShell",
+  "description": "Access XOnShell",
+  "version": "1",
+  "manifest_version": 2,
+  "app": {
+    "urls": [
+      "https://xon.sh"
+    ],
+    "launch": {
+      "web_url": "https://xon.sh"
+    }
+  },
+  "icons": {
+    "128": "128.png"
+  }
+}

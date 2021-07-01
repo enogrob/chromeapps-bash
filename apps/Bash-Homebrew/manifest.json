@@ -1,0 +1,17 @@
+{
+  "name": "Homebrew",
+  "description": "Access Homebrew",
+  "version": "1",
+  "manifest_version": 2,
+  "app": {
+    "urls": [
+      "https://docs.brew.sh/Homebrew-on-Linux"
+    ],
+    "launch": {
+      "web_url": "https://docs.brew.sh/Homebrew-on-Linux"
+    }
+  },
+  "icons": {
+    "128": "128.png"
+  }
+}
