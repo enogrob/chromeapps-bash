@@ -1,0 +1,17 @@
+{
+  "name": "Bash Repl",
+  "description": "Bash Repl",
+  "version": "1",
+  "manifest_version": 2,
+  "app": {
+    "urls": [
+      "https://riju.codes/bash"
+    ],
+    "launch": {
+      "web_url": "https://riju.codes/bash"
+    }
+  },
+  "icons": {
+    "128": "128.png"
+  }
+}
