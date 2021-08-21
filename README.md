@@ -29,9 +29,31 @@ drwxr-xr-x    4 enogrob  staff    136 Oct  4 02:32 images
 
 $ tree -L 1 apps/
 apps
+├── Bash-3llo
+├── Bash-ANSI
+├── Bash-ANSIColors
+├── Bash-API
+├── Bash-Awesome
+├── Bash-BashNews
+├── Bash-BashRepl
+├── Bash-DistroWatch
+├── Bash-Homebrew
+├── Bash-Homepage
+├── Bash-iRedis
+├── Bash-JDoodle
+├── Bash-Lazygit
+├── Bash-LinuxLPI
+├── Bash-MyCli
+├── Bash-PV
+├── Bash-Shenv
+├── Bash-SysAdmin
+├── Bash-Tig
+├── Bash-Webminal
+├── Bash-Weekly
+├── Bash-Wikipedia
+└── Bash-XonShell
 
-17 directories, 0 files
-$
+23 directories, 0 files
 ```
 
 ### 2. Open Chrome with the following url:
